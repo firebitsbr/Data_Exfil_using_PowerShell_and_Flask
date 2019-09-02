@@ -1,6 +1,6 @@
-$URI = Read-Host 'Enter URL: '
+$URI = Read-Host 'Enter URL'
 
-$File_path = Read-Host 'Enter File Path: '
+$File_path = Read-Host 'Enter File Path'
 
 Write-Host "Invoke PowerShell web request"
 
